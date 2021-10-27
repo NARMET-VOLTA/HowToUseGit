@@ -4,7 +4,7 @@ Per capire meglio il come lavora guardete lezioni su YT.
 
 SEMPRE MEGLIO LAFORARE CON GIT DAL TERMINALE!
 
-First you have to install git client from https://git-scm.com/ .
+Prima dovete installare git da https://git-scm.com/ .
 
 ## Command line commands:
 - git clone 'link http/ssh'                  - crea repositorio locale.
