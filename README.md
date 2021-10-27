@@ -21,3 +21,5 @@ First you have to install git client from https://git-scm.com/ .
 - git push <remote_repository_name> --delete <branch_name> - elimina branch cloud.
 
 Pull Request - in github.com.
+
+https://github.com/NARMET-VOLTA/HowToUseGit/blob/master/Esempio/esempio.png
