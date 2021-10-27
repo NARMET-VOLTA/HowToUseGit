@@ -4,7 +4,7 @@ Per capire meglio il come lavora guardete lezioni su YT.
 
 First you have to install git client from https://git-scm.com/ .
 
-##Command line commands:
+## Command line commands:
 - git clone 'link http/ssh'                  - crea repositorio locale.
 - git status                                 - visualizza lo status del branch di repositorio locale.
 - git add .                                  - aggiunge tutti domifiche nel commit area.
